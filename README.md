@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-View the [Portfolio](https://my-portfolio-hd4l59929-zimbinis-projects.vercel.app/) project.
+View the [Portfolio] project here, (https://my-portfolio-hd4l59929-zimbinis-projects.vercel.app/).
 
 First, run the development server:
 
