@@ -13,18 +13,18 @@ const Expertise = () => {
     'TypeScript Integration: Experience in incorporating TypeScript to enhance code quality and type safety.',
     
     'API Integration: Capable of integrating RESTful and GraphQL APIs into web applications.',
+
+    'SEO Optimization: Knowledgeable in  enforcing SEO stylish practices to ameliorate website hunt machine rankings.',
     
-    'Database Management: Proficient in working with databases, including MongoDB, for data storage and retrieval.',
+    'Database Management: Proficient in working with databases, including MongoDB, for data  storehouse and  reclamation.',
     
-    'SEO Optimization: Knowledgeable in implementing SEO best practices to improve website search engine rankings.',
+    'Collaboration and cooperation: Effective communication and collaboration chops for working in development  brigades. ',
+
+    'Stylish Practices: Strong commitment to following stylish coding practices, including  law reviews, testing, and  interpretation control using Git.',
+
+    'Element Re-usability: complete in creating applicable UI  factors to enhance  law maintainability.',
     
-    'Component Reusability: Proficient in creating reusable UI components to enhance code maintainability.',
-    
-    'Responsive Design: Experienced in designing and developing websites that adapt seamlessly to various screen sizes and devices.',
-    
-    'Collaboration and Teamwork: Effective communication and collaboration skills for working in development teams.',
-    
-    'Best Practices: Strong commitment to following best coding practices, including code reviews, testing, and version control using Git.',
+    'Responsive Design: Endured in designing and developing websites that  acclimatize seamlessly to  colorful screen sizes and  bias.',
     
     'Deployment and Hosting: Proficient in deploying web applications to platforms like Vercel and Netlify.',
   ];

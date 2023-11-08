@@ -28,6 +28,14 @@ const projects = [
     github: 'https://github.com/Zimbini9617/Blog-Project',
     link: 'https://peppy-haupia-87730a.netlify.app/auth',
   },
+  {
+    name: 'E-commerce Website',
+    description:
+      'This is a clone of an e-commerce website, built using ReactJS, JavaScript, HTML and tailwindcss & css to style it.',
+    image: '/e-commerce-website.png',
+    github: 'https://github.com/Zimbini9617/zeeonlineshopping',
+    link: 'https://zeeonlineshopping.vercel.app/',
+  },
 ];
 
 const ProjectsSection = () => {
