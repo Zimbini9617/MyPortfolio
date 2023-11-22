@@ -36,6 +36,14 @@ const projects = [
     github: 'https://github.com/Zimbini9617/zeeonlineshopping',
     link: 'https://zeeonlineshopping.vercel.app/',
   },
+  {
+    name: 'Bug Tracker Website',
+    description:
+      'This is a bug tracker website project',
+    image: '/bug-tracker.png',
+    github: 'https://github.com/Zimbini9617/bug-tracker',
+    link: 'https://bug-tracker-kappa.vercel.app/',
+  },
 ];
 
 const ProjectsSection = () => {
