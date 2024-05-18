@@ -15,7 +15,7 @@ const Footer = () => {
           </a>
           
           <a
-            href="https://www.linkedin.com/in/zimbini-sambunjana-0231101aa/"
+            href="https://www.linkedin.com/in/zimbini-sweety-sambunjana-0231101aa/"
             target="_blank"
             rel="noopener noreferrer"
           >
